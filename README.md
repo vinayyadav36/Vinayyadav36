@@ -93,7 +93,7 @@ My first comapny while started working , It was also pickup agency tied with fli
 
 - 🌐 Portfolio: [me-sigma-red.vercel.app](https://me-sigma-red.vercel.app)
 - 💻 GitHub: [github.com/Vinayoo4](https://github.com/Vinayoo4)
-- 🔗 LinkedIn: [linkedin.com/in/vinay-yadav-b517a4244](https://www.linkedin.com/in/vinay-yadav-b517a4244)
+- 🔗 LinkedIn: [linkedin.com/in/vinay-yadav-b517a4244](https://www.linkedin.com/in/vinay-yadav-dev)
 - 📫 Email: dev.webstylevinay9994@email.com
 
 ---
