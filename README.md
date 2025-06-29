@@ -25,7 +25,7 @@
 - CRM & SEO in Digital Marketing <br>
 - People-Centric Design in HR & SHRM <br>
 
-Trying to be Consistent with gaining further knowledge in Fields like Finance , AI ML and Marketing 
+Trying to be Consistent with gaining further knowledge in Fields  Finance , AI ML and Marketing 
 ---
 
 <h2><strong>🛠️ Projects That Represent My Journey</strong></h2>
