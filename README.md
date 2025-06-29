@@ -18,12 +18,12 @@
 ---
 
 <h2><strong>🔭 What I’m Currently Learning</strong></h2>
-- Pusuing my Undergraduation in Computer Science speacialization in Artificial Intelligence and Machine Learning 
-- Frontend Development (TypeScript + Vite + React + Vue.js + Tailwind CSS + DaisyUi)
-- UI/UX Design Thinking (Canva )
-- Finance & Excel Dashboards (via case studies)
-- CRM & SEO in Digital Marketing
-- People-Centric Design in HR & SHRM
+- Pusuing my Undergraduation in Computer Science speacialization in Artificial Intelligence and Machine Learning <br>
+- Frontend Development (TypeScript + Vite + React + Vue.js + Tailwind CSS + DaisyUi)<br>
+- UI/UX Design Thinking (Canva ) <br>
+- Finance & Excel Dashboards (via case studies , Certification courses and Exam and implementing the knowledge to see growth in my own portfolio) <br>
+- CRM & SEO in Digital Marketing <br>
+- People-Centric Design in HR & SHRM <br>
 
 Trying to be Consistent with gaining further knowledge in Fields like Finance , AI ML and Marketing 
 ---
