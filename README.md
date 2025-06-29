@@ -18,13 +18,14 @@
 ---
 
 <h2><strong>🔭 What I’m Currently Learning</strong></h2>
-
+- Pusuing my Undergraduation in Computer Science speacialization in Artificial Intelligence and Machine Learning 
 - Frontend Development (TypeScript + Vite + React + Vue.js + Tailwind CSS + DaisyUi)
 - UI/UX Design Thinking (Canva )
 - Finance & Excel Dashboards (via case studies)
 - CRM & SEO in Digital Marketing
 - People-Centric Design in HR & SHRM
 
+Trying to be Consistent with gaining further knowledge in Fields like Finance , AI ML and Marketing 
 ---
 
 <h2><strong>🛠️ Projects That Represent My Journey</strong></h2>
@@ -71,6 +72,8 @@ and one of the company was realted with the loan selling business for them also 
 This platform helped me a lot seriously with the public communication , at the time i was in my teenage and was studying about the pros of Public speaking and their were a lot of pulic speakers having a good amount of audience base with them and For calling customers in my most of working week days covering almost 6 day atleast for  1 - 2 hour depending upon the time i left for walking on my rooftop in evening time after completing all my homework and online classes from my school and Not only i gained a positive experience while working this company but their were few pending goals left on the app becuase now i hardly get the time for myself to go out and Chill and one of the goal was going to next tier .I don't what should i call this and it was happening everyday for the starting 15 minutes atleast , is supposed to call customers and their direct answer was rejection and that feeling was yrr may i will not able to convivnce the customer to take on the goal objective of the task due to my speaking skills and after those first 15-20 mintues every customer i was calling and now this time our conversion timing will be more than 3 to 4 minutes , sometimes it also went upto 5 - 5 50 . 
 
 My first comapny while started working , It was also pickup agency tied with flipkart and online shopping companies and here i gained a complete strength with English language with the customer for adding them as a freelancer with company and it was also related to pickup enquiry if it is done or not and i feel i have almost expertise for English language for both verbal and written cause my studying medium was always English but it was my first time as a telesales partner and directly it was a workrelated for adding the freelancer and pickup agents to the app and for most of calling time ,i had interaction with people from south side and eastern side of our country . 
+
+
 ---
 
 <h2><strong>🌐 Skills Snapshot</strong></h2>
